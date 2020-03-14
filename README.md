@@ -1,6 +1,6 @@
 # alcoolgasolina
 
-A new Flutter application.
+Aprendi no balta.io
 
 ## Getting Started
 
